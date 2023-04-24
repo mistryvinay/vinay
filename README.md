@@ -4,8 +4,9 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a technolgist, architect and developer advcocate working for [Symphony](https://symphony.com/). </br>
-👨‍💻  I am passionate about technology & I enjoy learning new things. </br>
+🌱 I’m a **technolgist** | **architect** | **developer advcocate** | **sales engineer** working for [Symphony](https://symphony.com/). </br>
+👨‍💻 I am passionate about cloud technologies & SaaS services. </br>
+🎓 I enjoy learning new things. </br>
 
 ## Developer Outreach 👨‍💻
 ### Webinars 🎬- 
@@ -48,4 +49,11 @@ Below are a list of projects I am or have contributed to:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+
 <br />
