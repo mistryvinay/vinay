@@ -1,7 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Vinay Mistry!](https://www.linkedin.com/in/vinaymistryuk/) 
 <a href="https://www.linkedin.com/in/vinaymistryuk/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:mrvinaymistry@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-
 <br />
 
 ### About Me 🚀
@@ -32,6 +31,14 @@ Below are training courses that I have helped build or contributed to:
   - [Symphony Development Fundamentals v2](https://learn.symphony.com/courses/fundamentals-v2)
   - [Developing Bots using BDK for Python](https://learn.symphony.com/courses/bdk-2-python)
   - [Implementing Workflows with WDK](https://learn.symphony.com/courses/wdk)
+
+### Open Source 👨‍💻
+Below are a list of projects I am or have contributed to:
+  - [Maintainer @ finos/FDC3 Project](https://github.com/finos/fdc3)
+  - [Symphony Generator](https://github.com/finos/generator-symphony)
+  - [Symphony BDK Python](https://github.com/finos/symphony-bdk-python)
+  - [Symphony BDK Java](https://github.com/finos/symphony-bdk-java)
+  - [Symphony API Client NodeJS](https://github.com/SymphonyPlatformSolutions/symphony-api-client-node)
 
 ### Tech Stack 🛠
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
