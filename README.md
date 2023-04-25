@@ -4,11 +4,16 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a **technolgist** | **architect** | **developer advcocate** | **sales engineer** working for [Symphony](https://symphony.com/). </br>
-👨‍💻 I am passionate about cloud technologies & SaaS services. </br>
-🎓 I enjoy learning new things. </br>
+- 🌱 I’m a **technolgist** | **architect** | **developer advcocate** | **sales engineer** working for [Symphony](https://symphony.com/). </br>
+- 👨‍💻 I am passionate about cloud technologies, SaaS and startups. </br>
+- 🎓 I enjoy learning new things. </br>
+- 📚 I'm currently learning everything 🤣
+- 💡 I love innovation and new technologies
+- 💼 Interest in Startups and Entrepreneurship
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🎤 Giving talks at events on topics related to technology, chatbots and desktop interoperability
 
-## Developer Outreach 👨‍💻
+## Developer Outreach 💬
 ### Webinars 🎬- 
 Below are social campaigns that I have helped create or contributed to:
   - [Build-a-Bot Session: Leveraging NLP to build a Symphony Bot](https://goto.symphony.com/LeveragingNLP-wbn-recording.html)
