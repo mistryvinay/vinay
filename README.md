@@ -4,7 +4,7 @@
 <br />
 
 ### About Me 🚀
-- 🌱 I’m a **technolgist** | **architect** | **developer advcocate** | **sales engineer** working for [Symphony](https://symphony.com/). </br>
+- 🌱 I’m a **technologist** | **architect** | **developer advocate** | **sales engineer** working for [Symphony](https://symphony.com/). </br>
 - 👨‍💻 I am passionate about cloud technologies, SaaS and startups. </br>
 - 🎓 I enjoy learning new things. </br>
 - 📚 I'm currently learning everything 🤣
