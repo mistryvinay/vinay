@@ -25,6 +25,7 @@ Below are social campaigns that I have helped create or contributed to:
 
 ### Speaking Engagements 📢
 Below are my speaking engagements:
+  - [FINOS Open House / FDC3 Identity Roundtable - June 2023, London](https://finosopenhouseandmembermeet.sched.com/event/1NPxz/fdc3-identity-roundtable-extended-session)
   - [Symphony Innovate 2019 Hackathon - October 2019, New York](https://www.meetup.com/symphony-developer-group-new-york/events/264701463/)
   - [Symphony Innovate Asia 2019 Hackathon - May 2019, Hong Kong](https://www.meetup.com/symphony-developer-group-hong-kong/events/259371008/)
   - [Symphony Developer Meetup, Hosted by Amazon Web Services - April 2019, London](https://www.meetup.com/symphony-developer-group-london/events/260040972/)
