@@ -35,9 +35,10 @@ Below are my speaking engagements:
 
 ### Training Courses 🏋️
 Below are training courses that I have helped build or contributed to:
-  - [Symphony Development Fundamentals v2](https://learn.symphony.com/courses/fundamentals-v2)
-  - [Developing Bots using BDK for Python](https://learn.symphony.com/courses/bdk-2-python)
-  - [Implementing Workflows with WDK](https://learn.symphony.com/courses/wdk)
+  - [The Linux Foundation / Introduction to FDC3 (LFEL1000)](https://training.linuxfoundation.org/express-learning/introduction-to-fdc3-lfel1000/)
+  - [Symphony / Development Fundamentals v2](https://learn.symphony.com/courses/fundamentals-v2)
+  - [Symphony / Developing Bots using BDK for Python](https://learn.symphony.com/courses/bdk-2-python)
+  - [Symphony / Implementing Workflows with WDK](https://learn.symphony.com/courses/wdk)
 
 ### Open Source 👨‍💻
 Below are a list of projects I am or have contributed to:
