@@ -16,11 +16,12 @@
 ## Developer Outreach 💬
 ### Webinars 🎬- 
 Below are social campaigns that I have helped create or contributed to:
-  - [Build-a-Bot Session: Leveraging NLP to build a Symphony Bot](https://goto.symphony.com/LeveragingNLP-wbn-recording.html)
-  - [Build-a-Bot Session: Building Resilient Bots & Datafeed 2.0](https://goto.symphony.com/Build-a-Bot-Datafeed-Recording.html)
+  - [Build-a-Bot Session: Leveraging NLP to build a Symphony Bot](https://symphony.com/insights/webinars/techwebinars/build-a-bot-session-leveraging-nlp-to-build-a-symphony-bot/)
+  - [Build-a-Bot Session: Building Resilient Bots & Datafeed 2.0](https://symphony.com/insights/webinars/techwebinars/build-a-bot-session-building-resilient-bots-datafeed-2-0/)
   - [Introducing The Workflow Developer Kit](https://goto.symphony.com/WorkflowDevKit-Recording.html)
-  - [What's New in Symphony Release 20.13 for Developers](https://goto.symphony.com/WB-GL-2021-12-Dev20.13_03.Recording.html)
-  - [Spring Bot - The Multi-Chat Platform Framework](https://goto.symphony.com/WB-GL-2022-06_SpringBot_Recording.html)
+  - [What's New in Symphony Release 20.13 for Developers](https://symphony.com/insights/webinars/techwebinars/whats-new-in-symphony-release-20-13-for-developers/)
+  - [Spring Bot - The Multi-Chat Platform Framework](https://symphony.com/insights/webinars/techwebinars/spring-bot-the-multi-chat-platform-framework/)
+  - [Build-a-Bot Session: Introduction to Symphony ECP, Embedded Collaboration Platform](https://symphony.com/insights/webinars/techwebinars/build-a-bot-session-introduction-to-symphony-ecp-embedded-collaboration-platform/)
   - [Developer Bytes: Introducing Symphony Enhanced Tags](https://bit.ly/symdevbytes)
 
 ### Speaking Engagements 📢
@@ -36,6 +37,7 @@ Below are my speaking engagements:
 ### Training Courses 🏋️
 Below are training courses that I have helped build or contributed to:
   - [The Linux Foundation / Introduction to FDC3 (LFEL1000)](https://training.linuxfoundation.org/express-learning/introduction-to-fdc3-lfel1000/)
+  - [The Linux Foundation / Developing Solutions with FDC3 (LFD237)](https://training.linuxfoundation.org/training/developing-solutions-with-fdc3-lfd237/)
   - [Symphony / Development Fundamentals v2](https://learn.symphony.com/courses/fundamentals-v2)
   - [Symphony / Developing Bots using BDK for Python](https://learn.symphony.com/courses/bdk-2-python)
   - [Symphony / Implementing Workflows with WDK](https://learn.symphony.com/courses/wdk)
