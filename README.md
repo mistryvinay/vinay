@@ -13,7 +13,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 🎤 Giving talks at events on topics related to technology, chatbots and desktop interoperability
 
-## Developer Outreach 💬
+## Experience 💬
 ### Webinars 🎬- 
 Below are social campaigns that I have helped create or contributed to:
   - [Build-a-Bot Session: Leveraging NLP to build a Symphony Bot](https://symphony.com/insights/webinars/techwebinars/build-a-bot-session-leveraging-nlp-to-build-a-symphony-bot/)
